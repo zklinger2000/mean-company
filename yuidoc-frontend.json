@@ -1,0 +1,11 @@
+{
+	"name": "mean-company",
+    "description": "my really cool app!",
+    "version": "0.0.0",
+    "url": "https://github.com/zklinger2000/mean-company",
+    "options": {
+        "paths": "./app/src/",
+        "outdir": "yuidocs/frontend",
+        "exclude": "bower_components,build,deploys,test"
+    }
+}

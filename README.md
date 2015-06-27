@@ -83,4 +83,3 @@ yo mean-seed
 - Built using Mean-Seed: https://github.com/jackrabbitsgroup/generator-mean-seed
 	- see here for more details - technology used, dependencies, limitations/compatibility, code standards, directory/file structure, workflow, etc.
 - *MongoDB, Express.js, AngularJS, Node.js + Yeoman (Grunt, Bower, Yo) + Jasmine, Karma, Protractor*
-# mean-company

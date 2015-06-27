@@ -1,0 +1,11 @@
+{
+    "name": "mean-company",
+    "description": "my really cool app!",
+    "version": "0.0.0",
+    "url": "https://github.com/zklinger2000/mean-company",
+    "options": {
+        "paths": ".",
+        "outdir": "yuidocs/backend",
+        "exclude": "node_modules,public,src"
+    }
+}
